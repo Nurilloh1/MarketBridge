@@ -1,0 +1,7 @@
+{
+  "name": "MarketBridge - Offline to Online Platform",
+  "description": "A strategic platform bridging the gap between offline shopping markets and digital commerce through Telegram and a mobile-first web catalog, powered by Gemini AI for effortless product listing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
